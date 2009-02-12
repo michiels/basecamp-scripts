@@ -1,3 +1,11 @@
+# Your Basecamp account credentials
 url:
-username: 
-password: 
+username:
+password:
+
+weekly_activity:
+# People to notify for the weekly_activity script. Please insert the person ids
+# here.
+  notify:
+    - 1234567
+    - 1234432
