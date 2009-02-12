@@ -1,4 +1,5 @@
-# Your Basecamp account credentials
+# Your Basecamp account credentials. If you are using OpenID, you can find
+# these under My info and then "Reveal my username/password"
 url:
 username:
 password:
