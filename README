@@ -1,0 +1,13 @@
+= About
+
+This is a set of scripts you can use to automate certain Basecamp tasks. For
+example for automatically posting weekly activity planners or automatically
+uploading files from your scanner device.
+
+= The scripts
+
+== weekly_activity.rb
+
+This script posts a message into a Basecamp project which asks all people to
+post their activity for the coming week in the comments. Good for an overview
+when working on a team spanning multiple projects!
